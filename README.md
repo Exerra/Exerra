@@ -1,3 +1,5 @@
+![Rawr my stats uwu owo](https://github-readme-stats.vercel.app/api?username=Exerra&show_icons=true&theme=tokyonight)
+![nuzzles ur language stats~! uwu owo](https://github-readme-stats.vercel.app/api/top-langs/?username=Exerra&layout=compact)
 # Hi there 👋
 ## Who am I?
 I am a new web developer, I know HTML, CSS and JS. I am, however, looking to branch out into Obj-C.
