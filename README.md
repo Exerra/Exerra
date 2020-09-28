@@ -7,6 +7,6 @@ Pronouns: She/Her 😀
 ## Why are there so few repositories? 🤔
 Well, to be honest, there are way more private repos, I just hide website repos and personal project repos which are not done yet. Once a project is high enough quality or done, I will make the repo public.
 ## Contact info 📞
-Email: [mailto:exerrawork@gmail.com](exerrawork@gmail.com)
-Twitter: [https://twitter.com/exerra](@Exerra)
+Email: (mailto:exerrawork@gmail.com)[exerrawork@gmail.com]
+Twitter: (htps://twitter.com/exerra)Exerra]
 Discord: Occult Waifu#1659
