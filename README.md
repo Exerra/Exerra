@@ -8,5 +8,7 @@ Pronouns: She/Her 😀
 Well, to be honest, there are way more private repos, I just hide website repos and personal project repos which are not done yet. Once a project is high enough quality or done, I will make the repo public.
 ## Contact info 📞
 Email: [exerrawork@gmail.com](mailto:exerrawork@gmail.com)
+
 Twitter: [Exerra](htps://twitter.com/exerra)
+
 Discord: Occult Waifu#1659
