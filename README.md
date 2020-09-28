@@ -1,4 +1,4 @@
-![Rawr my stats uwu owo](https://github-readme-stats.vercel.app/api?username=Exerra&show_icons=true&theme=tokyonight)
+![Rawr my stats uwu owo](https://github-readme-stats.vercel.app/api?username=Exerra&show_icons=true&theme=buefy)
 ![nuzzles ur language stats~! uwu owo](https://github-readme-stats.vercel.app/api/top-langs/?username=Exerra&layout=compact)
 # Hi there 👋
 ## Who am I? 🙋‍♀️
