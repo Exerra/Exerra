@@ -9,6 +9,6 @@ Well, to be honest, there are way more private repos, I just hide website repos 
 ## Contact info 📞
 Email: [exerrawork@gmail.com](mailto:exerrawork@gmail.com)
 
-Twitter: [Exerra](htps://twitter.com/exerra)
+Twitter: [Exerra](https://twitter.com/exerra)
 
 Discord: Occult Waifu#1659
