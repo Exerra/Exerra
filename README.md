@@ -5,7 +5,7 @@
 ## Who am I? 🙋‍♀️
 I am a new web developer, I know HTML, CSS and JS. I am learning the MERN (MongoDB, Express, React, NodeJS) stack. Afterwards, I will learn ElectronJS
 ## Why are there so few repositories? 🤔
-Some prokects are only on my computer, some are in organizations and the rest is private.
+Some projects are only on my computer, some are in organizations and the rest is private.
 ## Contact info 📞
 Email: [exerrawork@gmail.com](mailto:exerrawork@gmail.com)
 
