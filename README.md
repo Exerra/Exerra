@@ -15,7 +15,7 @@ Discord: Occult Waifu#1659
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2021 - 14 February, 2021
+Week: 08 February, 2021 - 15 February, 2021
 
 JavaScript   13 hrs 27 mins  █████████████████░░░░░░░░   67.37 % 
 CSS          1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
