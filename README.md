@@ -24,3 +24,5 @@ JSON         1 hr 48 mins    ██▒░░░░░░░░░░░░░░
 Other        1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 ```
 <!--END_SECTION:waka-->
+
+<img src="https://cdn.exerra.xyz/image/htmlandcss.svg">
