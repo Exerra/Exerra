@@ -7,7 +7,7 @@ I am a new web developer, I know HTML, CSS and JS. I am learning the MERN (Mongo
 ## Why are there so few repositories? 🤔
 Some projects are only on my computer, some are in organizations and the rest is private.
 ## Contact info 📞
-Email: [exerrawork@gmail.com](mailto:exerrawork@gmail.com)
+Email: [exerra@exerra.xyz](mailto:exerra@exerra.xyz)
 
 Twitter: [@Exerra](https://twitter.com/exerra)
 
