@@ -17,9 +17,9 @@ Discord: Occult Waifu#1659
 ```text
 Week: 25 April, 2021 - 02 May, 2021
 
-JavaScript   6 hrs 52 mins   █████████████████████░░░░   84.32 % 
-Other        54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+JavaScript   5 hrs 45 mins   ████████████████████▒░░░░   80.99 % 
+Other        59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+JSON         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 <!--END_SECTION:waka-->
 
