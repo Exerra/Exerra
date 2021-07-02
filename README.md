@@ -11,6 +11,12 @@
 I am a new web developer, I know HTML, CSS and JS. I am learning the MERN stack while getting dropkicked by real life stuffs (thats why I havent been coding a lot lately).
 ## Why are there so few repositories? 🤔
 Some projects are only on my computer, some are in organizations and the rest is private.
+
+**But you know what isn't private?** The fact that I host a lot of stuff on DigitalOcean so if you use my referral code you can get 100 USD credit over 60 days and after you spent 25 USD, I get 25 USD
+
+so please uh give money do digitalocean thru my referral code :)
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=724deb483716&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## Contact info 📞
 Email: [exerra@exerra.xyz](mailto:exerra@exerra.xyz)
 
