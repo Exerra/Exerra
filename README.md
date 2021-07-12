@@ -8,7 +8,7 @@
   <img src="https://public-api.freshstatus.io/v1/public/badge.svg/?badge=0b9b52df-6e1d-4d16-b836-5595b35bcef8" />
     </a>
 ## Who am I? 🙋‍♀️
-I am a new web developer, I know HTML, CSS and JS. I am learning the MERN stack while getting dropkicked by real life stuffs (thats why I havent been coding a lot lately).
+I am a full-stack developer. I know web dev languages along with NodeJS. I also am learning Swift and SwiftUI currently
 ## Why are there so few repositories? 🤔
 Some projects are only on my computer, some are in organizations and the rest is private.
 
