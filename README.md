@@ -1,5 +1,5 @@
-![Rawr my stats uwu owo](https://github-readme-stats.vercel.app/api?username=Exerra&show_icons=true&theme=buefy)
-![nuzzles ur language stats~! uwu owo](https://github-readme-stats.vercel.app/api/top-langs/?username=Exerra&layout=compact)
+![Rawr my stats uwu owo](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy)
+![nuzzles ur language stats~! uwu owo](https://github.stats.exerra.xyz/api/top-langs/?username=Exerra&layout=compact)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
 # Hi there 👋
