@@ -26,7 +26,7 @@ Discord: Occult Waifu#1659
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 August, 2021 - 11 August, 2021
+Week: 06 August, 2021 - 12 August, 2021
 
 HTML         3 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   42.33 % 
 YAML         2 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   28.41 % 
