@@ -28,11 +28,11 @@ Discord: Occult Waifu#1659
 ```text
 Week: 21 August, 2021 - 27 August, 2021
 
-JavaScript   9 hrs 24 mins   █████████████████▒░░░░░░░   69.71 % 
-Markdown     1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-TypeScript   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-HTML         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+JavaScript   9 hrs 6 mins    ██████████████████░░░░░░░   71.35 % 
+Markdown     1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+TypeScript   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+HTML         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 <!--END_SECTION:waka-->
 
