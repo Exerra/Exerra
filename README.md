@@ -26,7 +26,7 @@ Discord: Occult Waifu#1659
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2021 - 01 September, 2021
+Week: 27 August, 2021 - 02 September, 2021
 
 JavaScript   1 hr 26 mins    ███████████▓░░░░░░░░░░░░░   46.05 % 
 TypeScript   1 hr 6 mins     ████████▓░░░░░░░░░░░░░░░░   35.01 % 
