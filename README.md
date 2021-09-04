@@ -1,4 +1,4 @@
-![Rawr my stats uwu owo](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy)
+![Rawr my stats uwu owo](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)
 ![nuzzles ur language stats~! uwu owo](https://github.stats.exerra.xyz/api/top-langs/?username=Exerra&layout=compact)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
