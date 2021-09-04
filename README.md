@@ -1,5 +1,5 @@
-![Rawr my stats uwu owo](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)
-![nuzzles ur language stats~! uwu owo](https://github.stats.exerra.xyz/api/top-langs/?username=Exerra&layout=compact)
+![Exerra's Github profile statistics](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)
+![Exerra's language statistics](https://github.stats.exerra.xyz/api/top-langs/?username=Exerra&layout=compact)
 
 # Hi there 👋
 <a href="https://status.exerra.xyz" id="freshstatus-badge-root"
