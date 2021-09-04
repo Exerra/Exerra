@@ -9,11 +9,11 @@
     
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
 ## Who am I? 🙋‍♀️
-I am a full-stack developer. I know web dev languages along with NodeJS. I also am learning Swift and SwiftUI currently
+I am a full-stack developer. I know web dev languages along with NodeJS. I am also currently learning Swift and SwiftUI
 ## Why are there so few repositories? 🤔
 Some projects are only on my computer, some are in organizations and the rest is private.
 
-**But you know what isn't private?** The fact that I host a lot of stuff on DigitalOcean so if you use my referral code you can get 100 USD credit over 60 days and after you spent 25 USD, I get 25 USD
+**But you know what isn't private?** The fact that I host a lot of stuff on DigitalOcean so if you use my referral code you can get 100 USD credit over 60 days and after you've spent 25 USD, I get 25 USD
 
 so please uh give money do digitalocean thru my referral code :)
 
@@ -23,7 +23,7 @@ Email: [exerra@exerra.xyz](mailto:exerra@exerra.xyz)
 
 Twitter: [@Exerra](https://twitter.com/exerra)
 
-Discord: Occult Waifu#1659
+Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you haven't already spoken with me there)
 
 <!--START_SECTION:waka-->
 ```text
