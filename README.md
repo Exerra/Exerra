@@ -1,12 +1,13 @@
 ![Rawr my stats uwu owo](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)
 ![nuzzles ur language stats~! uwu owo](https://github.stats.exerra.xyz/api/top-langs/?username=Exerra&layout=compact)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
 # Hi there 👋
 <a href="https://status.exerra.xyz" id="freshstatus-badge-root"
   data-banner-style="compact">
   <img src="https://public-api.freshstatus.io/v1/public/badge.svg/?badge=0b9b52df-6e1d-4d16-b836-5595b35bcef8" />
     </a>
+    
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
 ## Who am I? 🙋‍♀️
 I am a full-stack developer. I know web dev languages along with NodeJS. I also am learning Swift and SwiftUI currently
 ## Why are there so few repositories? 🤔
