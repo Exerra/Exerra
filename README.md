@@ -29,10 +29,11 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
 ```text
 Week: 12 September, 2021 - 18 September, 2021
 
-HTML         32 mins         ██████████░░░░░░░░░░░░░░░   39.47 % 
-JavaScript   30 mins         █████████▒░░░░░░░░░░░░░░░   36.68 % 
-CSS          15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+JavaScript   4 hrs 36 mins   ███████████████████░░░░░░   76.24 % 
+JSON         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+HTML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+CSS          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
 
