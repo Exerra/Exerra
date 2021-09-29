@@ -32,11 +32,7 @@ This section will show how much I have coded. Small warning though: I only have 
 ```text
 Week: 22 September, 2021 - 28 September, 2021
 
-JavaScript   2 hrs 8 mins    ██████████████████▓░░░░░░   75.05 % 
-HTML         24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-JSON         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+JavaScript   3 hrs 19 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
