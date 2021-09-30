@@ -32,7 +32,7 @@ This section will show how much I have coded. Small warning though: I only have 
 ```text
 Week: 23 September, 2021 - 29 September, 2021
 
-JavaScript   3 hrs 19 mins   █████████████████████████   100.00 % 
+JavaScript   3 hrs 59 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
