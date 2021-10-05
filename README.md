@@ -30,7 +30,7 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
 This section will show how much I have coded. Small warning though: I only have wakatime installd on Visual Studio Code and Sublime Text, but I am starting to use WebStorm and Repl.it for a lot of projects so it may not be accurate
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2021 - 03 October, 2021
+Week: 28 September, 2021 - 04 October, 2021
 
 JavaScript   4 hrs 51 mins   ███████████████████████░░   91.93 % 
 JSON         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
