@@ -32,8 +32,7 @@ This section will show how much I have coded. Small warning though: I only have 
 ```text
 Week: 11 October, 2021 - 17 October, 2021
 
-TypeScript   7 mins          █████████████░░░░░░░░░░░░   52.10 % 
-JavaScript   6 mins          ████████████░░░░░░░░░░░░░   47.53 % 
+TypeScript   7 mins          ██████████████████████▓░░   91.08 % 
 ```
 <!--END_SECTION:waka-->
 
