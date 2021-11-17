@@ -32,11 +32,9 @@ This section will show how much I have coded. Small warning though: I only have 
 ```text
 Week: 10 November, 2021 - 16 November, 2021
 
-TypeScript   31 mins         ██████████░░░░░░░░░░░░░░░   40.00 % 
-JSON         15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-CSS          9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-INI          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+JSON         3 mins          ███████████░░░░░░░░░░░░░░   44.14 % 
+TypeScript   2 mins          ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Other        2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
 ```
 <!--END_SECTION:waka-->
 
