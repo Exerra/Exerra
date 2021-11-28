@@ -32,10 +32,10 @@ This section will show how much I have coded. Small warning though: I only have 
 ```text
 Week: 21 November, 2021 - 27 November, 2021
 
-YAML         42 mins         ████████████▒░░░░░░░░░░░░   49.89 % 
-JavaScript   17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-JSON         14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Other        10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+YAML         37 mins         ██████████▓░░░░░░░░░░░░░░   42.15 % 
+JavaScript   25 mins         ███████▒░░░░░░░░░░░░░░░░░   29.17 % 
+JSON         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Other        10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 ```
 <!--END_SECTION:waka-->
 
