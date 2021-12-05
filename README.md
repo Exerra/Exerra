@@ -32,8 +32,7 @@ This section will show how much I have coded. Small warning though: I only have 
 ```text
 Week: 28 November, 2021 - 04 December, 2021
 
-JavaScript   8 mins          ████████████████████▒░░░░   80.92 % 
-Python       1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Python   1 min           ███████████████████████▓░   95.24 % 
 ```
 <!--END_SECTION:waka-->
 
