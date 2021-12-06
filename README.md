@@ -32,7 +32,7 @@ This section will show how much I have coded. Small warning though: I only have 
 ```text
 Week: 29 November, 2021 - 05 December, 2021
 
-Python   1 min           ███████████████████████▓░   95.24 % 
+
 ```
 <!--END_SECTION:waka-->
 
