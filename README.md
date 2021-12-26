@@ -1,5 +1,5 @@
 # Hi there 👋
-<!----><img valign="middle" align="right" src="https://cdn.exerra.xyz/png/linus_lick_wood.png" width="300px" alt="exerra pfp"/><!---->
+<!--<img valign="middle" align="right" src="https://cdn.exerra.xyz/png/linus_lick_wood.png" width="300px" alt="exerra pfp"/>-->
     
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
 ## Who am I? 🙋‍♀️
