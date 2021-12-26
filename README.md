@@ -2,6 +2,7 @@
 ![Exerra's language statistics](https://github.stats.exerra.xyz/api/top-langs/?username=Exerra&layout=compact)
 
 # Hi there 👋
+<!--<img valign="middle" align="right" src="https://cdn.exerra.xyz/png/pfp.png" width="300px" alt="exerra pfp"/>-->
 <a href="https://status.exerra.xyz" id="freshstatus-badge-root"
   data-banner-style="compact">
   <img src="https://public-api.freshstatus.io/v1/public/badge.svg/?badge=0b9b52df-6e1d-4d16-b836-5595b35bcef8" />
