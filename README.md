@@ -27,8 +27,15 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
 -->
 
 <!--START_SECTION:waka-->
+```text
+Week: 11 February, 2022 - 17 February, 2022
 
- <!--END_SECTION:waka-->
+Total: 46 mins
+
+JavaScript   41 mins         ██████████████████████▓░░   90.58 % 
+JSON         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+```
+<!--END_SECTION:waka-->
     
 <!--
 ![Exerra's Github profile statistics](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)
