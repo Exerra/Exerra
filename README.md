@@ -25,6 +25,10 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
   <img src="https://public-api.freshstatus.io/v1/public/badge.svg/?badge=0b9b52df-6e1d-4d16-b836-5595b35bcef8" />
     </a>
 -->
+
+<!--START_SECTION:waka-->
+
+ <!--END_SECTION:waka-->
     
 <!--
 ![Exerra's Github profile statistics](https://github.stats.exerra.xyz/api?username=Exerra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)
