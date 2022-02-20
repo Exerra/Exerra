@@ -28,7 +28,7 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
 JavaScript   8 hrs 59 mins   ██████████████████████▒░░   89.19 % 
 Markdown     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
