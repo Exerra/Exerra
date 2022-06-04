@@ -29,7 +29,7 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 May 2022 - To: 03 June 2022
+From: 28 May 2022 - To: 04 June 2022
 
 JavaScript       1 hr 44 mins    █████████████▒░░░░░░░░░░░   53.56 %
 Bash             26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
