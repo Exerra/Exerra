@@ -29,14 +29,14 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 20 June 2022
+From: 14 June 2022 - To: 21 June 2022
 
-TypeScript   14 hrs 46 mins  █████████████████▓░░░░░░░   70.42 %
-JavaScript   5 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-XML          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript   13 hrs 44 mins  █████████████████▓░░░░░░░   70.86 %
+JavaScript   4 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+XML          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
