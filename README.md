@@ -9,7 +9,7 @@ Some projects are only on my computer, some are in organizations and the rest is
 
 **But you know what isn't private?** The fact that I host a lot of stuff on DigitalOcean so if you use my referral code you can get 100 USD credit over 60 days and after you've spent 25 USD, I get 25 USD
 
-so please uh give money do digitalocean thru my referral code :)
+so please uh give money to digitalocean thru my referral code :)
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=724deb483716&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## Contact info 📞
