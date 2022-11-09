@@ -29,7 +29,7 @@ Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you 
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 November 2022 - To: 08 November 2022
+From: 02 November 2022 - To: 09 November 2022
 
 TypeScript       1 hr 12 mins    ██████████████▓░░░░░░░░░░   59.06 %
 JSON             20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
