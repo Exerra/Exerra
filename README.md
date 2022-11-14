@@ -2,7 +2,7 @@
 <!--<img valign="middle" align="right" src="https://cdn.exerra.xyz/png/linus_lick_wood.png" width="300px" alt="exerra pfp"/>-->
     
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
-## Who am I? 🙋‍♀️
+## Who am I?
 I am a full-stack developer. I know web dev languages along with NodeJS. I am also currently learning Swift and SwiftUI
 ## Why are there so few repositories? 🤔
 Some projects are only on my computer, some are in organizations and the rest is private.
@@ -16,8 +16,6 @@ so please uh give money to digitalocean thru my referral code :)
 Email: [exerra@exerra.xyz](mailto:exerra@exerra.xyz)
 
 Twitter: [@Exerra](https://twitter.com/exerra)
-
-Discord: Occult Waifu#1659 (Though it is not advised to contact me there if you haven't already spoken with me there)
 
 <!--
 <a href="https://status.exerra.xyz" id="freshstatus-badge-root"
