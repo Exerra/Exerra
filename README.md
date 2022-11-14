@@ -27,7 +27,11 @@ Twitter: [@Exerra](https://twitter.com/exerra)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 November 2022 - To: 14 November 2022
+
+JavaScript   53 mins         ███████████████████▒░░░░░   77.41 %
+MDX          9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
