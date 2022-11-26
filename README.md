@@ -27,14 +27,14 @@ Twitter: [@Exerra](https://twitter.com/exerra)
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 25 November 2022
+From: 19 November 2022 - To: 26 November 2022
 
-Astro            2 hrs 44 mins   ████████████░░░░░░░░░░░░░   48.52 %
-TypeScript       1 hr 43 mins    ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-Markdown         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-JavaScript       24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Npm File         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-CSS              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Astro            2 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.55 %
+TypeScript       1 hr 43 mins    █████████▓░░░░░░░░░░░░░░░   38.16 %
+JavaScript       23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Npm File         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+CSS              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
