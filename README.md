@@ -27,7 +27,7 @@ Twitter: [@Exerra](https://twitter.com/exerra)
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 06 December 2022
+From: 30 November 2022 - To: 07 December 2022
 
 TypeScript       4 hrs 28 mins   ███████████████████░░░░░░   76.20 %
 JavaScript       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
