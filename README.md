@@ -27,14 +27,14 @@ Twitter: [@Exerra](https://twitter.com/exerra)
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-TypeScript       5 hrs 32 mins   ███████████████████▒░░░░░   77.74 %
-JavaScript       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Astro            26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-JSON             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Bash             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Text             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+TypeScript       5 hrs 42 mins   ███████████████████▓░░░░░   78.28 %
+JavaScript       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Astro            26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+JSON             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Bash             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Text             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
