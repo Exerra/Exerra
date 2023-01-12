@@ -27,7 +27,7 @@ Twitter: [@Exerra](https://twitter.com/exerra)
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
 Markdown     2 hrs 18 mins   ███████████████████████▓░   94.97 %
 Astro        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
