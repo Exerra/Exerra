@@ -27,14 +27,14 @@ Twitter: [@Exerra](https://twitter.com/exerra)
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
-TypeScript    35 mins         █████████████▓░░░░░░░░░░░   54.52 %
-Markdown      17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Astro         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-JSON          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-.env file     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-INI           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Astro         2 hrs 44 mins   ████████████████░░░░░░░░░   64.32 %
+TypeScript    59 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
+Markdown      21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+JSON          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Bash          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+.env file     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
