@@ -28,14 +28,14 @@ Or you can always just use ko-fi, though the DigitalOcean referral code does giv
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-TypeScript       4 hrs 6 mins    ███████████████████████░░   92.42 %
-JSON             17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-CSS              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript       4 hrs 8 mins    █████████████████████▓░░░   86.24 %
+JSON             30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+HTTP Request     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+CSS              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Astro            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
