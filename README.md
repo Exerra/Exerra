@@ -12,10 +12,6 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=724deb483716&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-Or you can always just use ko-fi, though the DigitalOcean referral code does give both of us bonuses
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X130H96)
-
 ## Wakatime stats
 
 <!--
