@@ -24,11 +24,12 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 27 March 2023 - To: 03 April 2023
 
-PHP        2 hrs 19 mins   ██████████████████████░░░   87.60 %
-Markdown   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Astro      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+PHP        4 hrs 32 mins   █████████████████████▒░░░   84.95 %
+Astro      33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Markdown   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
