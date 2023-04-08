@@ -24,7 +24,7 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2023 - To: 07 April 2023
+From: 01 April 2023 - To: 08 April 2023
 
 PHP        4 hrs 41 mins   █████████████████████▒░░░   85.37 %
 Astro      33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
