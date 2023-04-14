@@ -24,7 +24,7 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
 Markdown         3 hrs 11 mins   ████████████████▒░░░░░░░░   65.90 %
 TypeScript       1 hr 35 mins    ████████▒░░░░░░░░░░░░░░░░   32.90 %
