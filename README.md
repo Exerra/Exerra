@@ -24,14 +24,14 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2023 - To: 16 April 2023
+From: 10 April 2023 - To: 17 April 2023
 
-Markdown         3 hrs 11 mins   ████████████████▒░░░░░░░░   65.02 %
-TypeScript       1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.73 %
-JavaScript       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown         3 hrs 57 mins   █████████████████▒░░░░░░░   69.67 %
+TypeScript       1 hr 39 mins    ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
