@@ -23,7 +23,7 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 TypeScript       5 hrs 48 mins   █████████████████████▒░░░   84.74 %
