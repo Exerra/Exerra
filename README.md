@@ -24,13 +24,13 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 07 June 2023
+From: 01 June 2023 - To: 08 June 2023
 
-TypeScript       5 hrs 34 mins   ██████████████████████░░░   88.43 %
-Text             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Astro            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-TOML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript       5 hrs 51 mins   ██████████████████████▓░░   90.48 %
+Text             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Astro            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+.env file        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
