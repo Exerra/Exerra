@@ -24,13 +24,13 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2023 - To: 02 July 2023
+From: 26 June 2023 - To: 03 July 2023
 
-Rust             4 hrs 33 mins   ██████████████████████▒░░   89.39 %
-TypeScript       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Astro            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-textmate         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-TOML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Rust             4 hrs 33 mins   █████████████████████▓░░░   86.69 %
+TypeScript       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Astro            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+textmate         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TOML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
