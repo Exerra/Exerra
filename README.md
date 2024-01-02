@@ -24,13 +24,13 @@ If you wish to support me, I could always use DigitalOcean credit (You will get 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-YAML         2 hrs 47 mins   ██████████████████▓░░░░░░   74.41 %
-Text         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Astro        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-TypeScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TypeScript     2 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.90 %
+YAML           2 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.42 %
+Text           24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Astro          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
