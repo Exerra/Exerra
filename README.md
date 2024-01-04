@@ -3,7 +3,7 @@
 <a href="https://github.com/sponsors/Exerra" title="Sponsor Exerra"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
     
 ## Who am I?
-I am a full-stack developer from Latvia with 4 years of experience. If you want to learn more, go to [my website](https://exerra.xyz)
+I am a full-stack developer from Latvia with 5 years of experience. If you want to learn more, go to [my website](https://exerra.xyz)
 
 ## Contact info 📞
 My website provides up-to-date contact information.
