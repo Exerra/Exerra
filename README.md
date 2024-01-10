@@ -20,13 +20,13 @@ My website provides up-to-date contact information.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-TypeScript       5 hrs 43 mins   ████████████████▒░░░░░░░░   64.81 %
-Markdown         2 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
-YAML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Astro            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Ruby             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript       6 hrs 16 mins   █████████████████▓░░░░░░░   70.74 %
+Markdown         2 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+Ruby             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
