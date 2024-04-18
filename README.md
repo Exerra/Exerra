@@ -20,9 +20,12 @@ My website provides up-to-date contact information.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 11 April 2024 - To: 18 April 2024
 
-TypeScript   0 secs          █████████████████████████   100.00 %
+JSON         24 mins         █████████████░░░░░░░░░░░░   52.56 %
+TypeScript   22 mins         ███████████▓░░░░░░░░░░░░░   47.33 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
