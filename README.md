@@ -20,7 +20,7 @@ My website provides up-to-date contact information.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
 TypeScript   2 hrs 59 mins   █████████████████████░░░░   83.80 %
 Other        24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
