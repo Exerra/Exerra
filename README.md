@@ -20,13 +20,13 @@ My website provides up-to-date contact information.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2024 - To: 07 July 2024
+From: 01 July 2024 - To: 08 July 2024
 
-Astro        1 hr 52 mins    ████████████████████▒░░░░   80.83 %
-CSS          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Astro        1 hr 52 mins    ██████████████████▒░░░░░░   73.11 %
+TypeScript   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+CSS          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
