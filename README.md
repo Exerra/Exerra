@@ -20,11 +20,9 @@ My website provides up-to-date contact information.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-TypeScript   1 hr 47 mins    ████████████████▓░░░░░░░░   66.99 %
-JavaScript   52 mins         ████████▒░░░░░░░░░░░░░░░░   32.97 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
