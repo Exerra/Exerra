@@ -5,7 +5,7 @@
 ## Who am I?
 I am a full-stack developer & avid self-hoster with many years of experience.
 
-I believe in a decentralised internet. That includes having your own website, social media, email, etc. Currently I use, am fascinated by, and am making projects for ActivityPub - a W3C standard for decentralised social medias.
+I believe in a decentralised internet. That includes having your own website, social media, email, etc. Currently I use, am fascinated by, and am making projects for ATProto, the protocol behind Bluesky & many other apps, as well as ActivityPub - a W3C standard for decentralised social medias.
 
 If you want to learn more, go to [my website](https://exerra.xyz)
 
