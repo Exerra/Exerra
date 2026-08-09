@@ -1,13 +1,9 @@
 # Hi there, I'm Savičs 👋
 
 <a href="https://github.com/sponsors/Exerra" title="Sponsor Exerra"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-    
-## Who am I?
-I am a full-stack developer & avid self-hoster with many years of experience.
 
-I believe in a decentralised internet. That includes having your own website, social media, email, etc. Currently I use, am fascinated by, and am making projects for ATProto, the protocol behind Bluesky & many other apps, as well as ActivityPub - a W3C standard for decentralised social medias.
+I build at the protocol level when the ecosystem doesn't have what I need -- IMAPv4rev2 for Cloudflare Workers, EU eIDAS signature verification for paperless-ngx, Apple Music API tooling used in production by multi-scrobbler.
 
-If you want to learn more, go to [my website](https://exerra.xyz)
+I believe in a decentralised internet -- own your website, social media, email. Building for ATProto and ActivityPub when time allows.
 
-## Contact info 📞
-My website provides up-to-date contact information.
+→ [exerra.xyz](https://exerra.xyz)
